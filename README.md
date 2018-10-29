@@ -7,5 +7,5 @@
 - a3rt
 
 ## デプロイ方法
-1.herokuの環境変数にa3rtの環境tokenとslackのtokenを登録する
+1.herokuの環境変数にa3rtの環境tokenとslackのtokenを登録する  
 2.git push heroku masterをしてデプロイ完了
